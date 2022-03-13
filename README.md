@@ -29,3 +29,4 @@ make sure to install :
 
 - **apply Template** will add a teeth template picture on top of the picture on the right which could be dragged using the mouse and resized using the **Template Size Increase/Decrease** button
 
+  ![img](./results/template.PNG)
